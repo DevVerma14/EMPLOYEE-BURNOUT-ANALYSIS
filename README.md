@@ -1,4 +1,4 @@
-EMPLOYMENT-BURNOUT-ANALYSIS BY AIML-AICTE@IBM
+EMPLOYEE-BURNOUT-ANALYSIS BY AIML-AICTE@IBM
 This repository contains the Employment Burnout Analysis (EBA) project, developed as part of IBM's Machine Learning curriculum. The project focuses on analyzing employee burnout using machine learning techniques.
 
 Project Overview
