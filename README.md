@@ -58,7 +58,7 @@ This project is part of the IBM Machine Learning curriculum. Special thanks to t
 
 📝 Feedback and Support
 If you have any feedback, suggestions, or questions regarding the project, please create an issue in the repository or contact me at:
-amitc220404@gmail.com
+devverma9451@gmail.com
 
 ⭐ Show Your Support
 If you find this repository helpful, don't forget to show your support by giving it a star! ⭐
