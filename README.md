@@ -18,7 +18,7 @@ README.md: This file, providing an overview of the project.
 Getting Started
 To replicate the analysis: Clone the repository:
 
-bash Copy code git clone https://github.com/AmitC04/EMPLOYMENT-BURNOUT-.git
+bash Copy code git clone https://github.com/Dev14-coder/EMPLOYEE-BURNOUT-ANALYSIS.git
 
 Install the required packages: requirement.txt
 
