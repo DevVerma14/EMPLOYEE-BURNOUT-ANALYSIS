@@ -98,3 +98,4 @@ This project is for **educational** and **research** purposes only.
 ## 🙋‍♂️ Author
 
 Created with ❤️ by [DevVerma14](https://github.com/DevVerma14)
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/dev-verma-b9b020263)
